@@ -4,4 +4,4 @@
 ./config.cfg
 
 #On affiche les variables
-echo $VAR1
+echo $VAR1 $VAR2
