@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Chargement du fichier de configuration config.cfg
-./config.cf
+./config.cfg
 
 #On affiche les variables
 echo $VAR1
